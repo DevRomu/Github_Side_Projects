@@ -1,0 +1,15 @@
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\bin\Debug\net6.0\Dice_Game_RO.exe
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\bin\Debug\net6.0\Dice_Game_RO.deps.json
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\bin\Debug\net6.0\Dice_Game_RO.runtimeconfig.json
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\bin\Debug\net6.0\Dice_Game_RO.dll
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\bin\Debug\net6.0\Dice_Game_RO.pdb
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.csproj.AssemblyReference.cache
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.AssemblyInfoInputs.cache
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.AssemblyInfo.cs
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.csproj.CoreCompileInputs.cache
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.dll
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\refint\Dice_Game_RO.dll
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.pdb
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\Dice_Game_RO.genruntimeconfig.cache
+C:\Users\Romel\source\repos\Dice_Game_RO\Dice_Game_RO\obj\Debug\net6.0\ref\Dice_Game_RO.dll
